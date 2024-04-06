@@ -1,0 +1,360 @@
+Hour #0 Report:
+  Top 5 highest temperatures:
+  1: 69.6945F
+  2: 69.6517F
+  3: 69.2713F
+  4: 68.8887F
+  5: 68.4042F
+  Top 5 lowest temperatures:
+  1: -99.8673F
+  2: -99.7301F
+  3: -99.4751F
+  4: -99.2837F
+  5: -98.8637F
+  The largest 10-minute temperature difference was observed between minutes 7 and 17
+
+Hour #1 Report:
+  Top 5 highest temperatures:
+  1: 69.7587F
+  2: 69.5234F
+  3: 69.5144F
+  4: 69.1373F
+  5: 68.9461F
+  Top 5 lowest temperatures:
+  1: -99.4318F
+  2: -99.1671F
+  3: -99.1433F
+  4: -98.9947F
+  5: -98.7958F
+  The largest 10-minute temperature difference was observed between minutes 42 and 52
+
+Hour #2 Report:
+  Top 5 highest temperatures:
+  1: 69.7825F
+  2: 69.7482F
+  3: 69.6807F
+  4: 69.5921F
+  5: 68.3139F
+  Top 5 lowest temperatures:
+  1: -98.9083F
+  2: -98.8862F
+  3: -97.3575F
+  4: -97.2796F
+  5: -97.1846F
+  The largest 10-minute temperature difference was observed between minutes 14 and 24
+
+Hour #3 Report:
+  Top 5 highest temperatures:
+  1: 69.4909F
+  2: 69.0122F
+  3: 68.1124F
+  4: 67.6074F
+  5: 67.5227F
+  Top 5 lowest temperatures:
+  1: -99.7372F
+  2: -99.4663F
+  3: -98.9349F
+  4: -98.7859F
+  5: -98.3931F
+  The largest 10-minute temperature difference was observed between minutes 19 and 29
+
+Hour #4 Report:
+  Top 5 highest temperatures:
+  1: 69.0723F
+  2: 69.0306F
+  3: 68.9322F
+  4: 68.7341F
+  5: 68.6492F
+  Top 5 lowest temperatures:
+  1: -99.1225F
+  2: -99.077F
+  3: -98.8795F
+  4: -98.092F
+  5: -97.7135F
+  The largest 10-minute temperature difference was observed between minutes 8 and 18
+
+Hour #5 Report:
+  Top 5 highest temperatures:
+  1: 68.9878F
+  2: 68.9816F
+  3: 68.9589F
+  4: 68.9208F
+  5: 68.6474F
+  Top 5 lowest temperatures:
+  1: -99.8884F
+  2: -99.7726F
+  3: -99.2769F
+  4: -99.0247F
+  5: -98.939F
+  The largest 10-minute temperature difference was observed between minutes 36 and 46
+
+Hour #6 Report:
+  Top 5 highest temperatures:
+  1: 69.6693F
+  2: 69.1235F
+  3: 68.5834F
+  4: 68.3484F
+  5: 68.274F
+  Top 5 lowest temperatures:
+  1: -99.7017F
+  2: -99.1115F
+  3: -98.7237F
+  4: -98.5437F
+  5: -98.497F
+  The largest 10-minute temperature difference was observed between minutes 19 and 29
+
+Hour #7 Report:
+  Top 5 highest temperatures:
+  1: 69.863F
+  2: 69.7315F
+  3: 68.6903F
+  4: 68.108F
+  5: 67.7587F
+  Top 5 lowest temperatures:
+  1: -99.4052F
+  2: -99.3091F
+  3: -99.1725F
+  4: -99.0934F
+  5: -98.9259F
+  The largest 10-minute temperature difference was observed between minutes 35 and 45
+
+Hour #8 Report:
+  Top 5 highest temperatures:
+  1: 69.9463F
+  2: 69.8226F
+  3: 69.7969F
+  4: 68.3626F
+  5: 67.9357F
+  Top 5 lowest temperatures:
+  1: -99.7478F
+  2: -98.8291F
+  3: -97.9319F
+  4: -97.5695F
+  5: -97.2641F
+  The largest 10-minute temperature difference was observed between minutes 32 and 42
+
+Hour #9 Report:
+  Top 5 highest temperatures:
+  1: 69.9479F
+  2: 68.939F
+  3: 66.995F
+  4: 66.6112F
+  5: 66.467F
+  Top 5 lowest temperatures:
+  1: -99.6895F
+  2: -99.2651F
+  3: -99.237F
+  4: -98.9096F
+  5: -98.2978F
+  The largest 10-minute temperature difference was observed between minutes 5 and 15
+
+Hour #10 Report:
+  Top 5 highest temperatures:
+  1: 69.9461F
+  2: 69.8552F
+  3: 69.7337F
+  4: 69.4469F
+  5: 68.4046F
+  Top 5 lowest temperatures:
+  1: -99.4081F
+  2: -99.2458F
+  3: -99.2034F
+  4: -98.8349F
+  5: -98.7452F
+  The largest 10-minute temperature difference was observed between minutes 40 and 50
+
+Hour #11 Report:
+  Top 5 highest temperatures:
+  1: 68.4551F
+  2: 68.3483F
+  3: 68.261F
+  4: 68.2451F
+  5: 68.1095F
+  Top 5 lowest temperatures:
+  1: -99.7509F
+  2: -99.7282F
+  3: -99.6953F
+  4: -99.6178F
+  5: -99.4678F
+  The largest 10-minute temperature difference was observed between minutes 8 and 18
+
+Hour #12 Report:
+  Top 5 highest temperatures:
+  1: 68.9255F
+  2: 67.6716F
+  3: 67.4271F
+  4: 67.1562F
+  5: 66.643F
+  Top 5 lowest temperatures:
+  1: -98.9222F
+  2: -98.7036F
+  3: -98.0866F
+  4: -97.7515F
+  5: -96.8287F
+  The largest 10-minute temperature difference was observed between minutes 34 and 44
+
+Hour #13 Report:
+  Top 5 highest temperatures:
+  1: 69.6658F
+  2: 68.9348F
+  3: 68.6811F
+  4: 68.5233F
+  5: 68.3646F
+  Top 5 lowest temperatures:
+  1: -99.8252F
+  2: -99.1972F
+  3: -99.1808F
+  4: -98.8844F
+  5: -98.2492F
+  The largest 10-minute temperature difference was observed between minutes 47 and 57
+
+Hour #14 Report:
+  Top 5 highest temperatures:
+  1: 69.5631F
+  2: 68.9906F
+  3: 68.7143F
+  4: 68.3649F
+  5: 68.2199F
+  Top 5 lowest temperatures:
+  1: -99.9686F
+  2: -99.32F
+  3: -99.1426F
+  4: -99.1263F
+  5: -99.1053F
+  The largest 10-minute temperature difference was observed between minutes 46 and 56
+
+Hour #15 Report:
+  Top 5 highest temperatures:
+  1: 69.7441F
+  2: 69.4346F
+  3: 69.4149F
+  4: 69.3393F
+  5: 69.2974F
+  Top 5 lowest temperatures:
+  1: -99.7768F
+  2: -98.9681F
+  3: -98.4017F
+  4: -97.7044F
+  5: -97.3901F
+  The largest 10-minute temperature difference was observed between minutes 18 and 28
+
+Hour #16 Report:
+  Top 5 highest temperatures:
+  1: 69.9849F
+  2: 69.6564F
+  3: 68.6602F
+  4: 68.4395F
+  5: 67.6392F
+  Top 5 lowest temperatures:
+  1: -99.5833F
+  2: -99.5218F
+  3: -99.2115F
+  4: -99.1838F
+  5: -99.0746F
+  The largest 10-minute temperature difference was observed between minutes 49 and 59
+
+Hour #17 Report:
+  Top 5 highest temperatures:
+  1: 69.3654F
+  2: 69.0756F
+  3: 69.0616F
+  4: 68.7851F
+  5: 68.7535F
+  Top 5 lowest temperatures:
+  1: -99.8979F
+  2: -99.7038F
+  3: -99.6449F
+  4: -99.6165F
+  5: -99.5974F
+  The largest 10-minute temperature difference was observed between minutes 47 and 57
+
+Hour #18 Report:
+  Top 5 highest temperatures:
+  1: 69.657F
+  2: 69.6343F
+  3: 69.3742F
+  4: 69.1117F
+  5: 67.9972F
+  Top 5 lowest temperatures:
+  1: -98.8687F
+  2: -98.7787F
+  3: -98.6805F
+  4: -97.4671F
+  5: -97.0706F
+  The largest 10-minute temperature difference was observed between minutes 14 and 24
+
+Hour #19 Report:
+  Top 5 highest temperatures:
+  1: 69.9979F
+  2: 69.6687F
+  3: 67.4481F
+  4: 67.2961F
+  5: 67.206F
+  Top 5 lowest temperatures:
+  1: -99.952F
+  2: -99.6582F
+  3: -99.6261F
+  4: -99.4967F
+  5: -99.2326F
+  The largest 10-minute temperature difference was observed between minutes 49 and 59
+
+Hour #20 Report:
+  Top 5 highest temperatures:
+  1: 69.9251F
+  2: 69.9132F
+  3: 69.5683F
+  4: 68.9122F
+  5: 68.7848F
+  Top 5 lowest temperatures:
+  1: -99.5221F
+  2: -99.4124F
+  3: -98.8126F
+  4: -98.5577F
+  5: -97.8261F
+  The largest 10-minute temperature difference was observed between minutes 14 and 24
+
+Hour #21 Report:
+  Top 5 highest temperatures:
+  1: 69.2071F
+  2: 69.1279F
+  3: 69.0873F
+  4: 68.2875F
+  5: 68.0206F
+  Top 5 lowest temperatures:
+  1: -99.8312F
+  2: -99.509F
+  3: -98.5575F
+  4: -98.2754F
+  5: -97.9813F
+  The largest 10-minute temperature difference was observed between minutes 6 and 16
+
+Hour #22 Report:
+  Top 5 highest temperatures:
+  1: 69.3531F
+  2: 69.0758F
+  3: 68.9953F
+  4: 68.6933F
+  5: 67.5506F
+  Top 5 lowest temperatures:
+  1: -99.9465F
+  2: -99.1179F
+  3: -98.3632F
+  4: -98.2635F
+  5: -98.2374F
+  The largest 10-minute temperature difference was observed between minutes 49 and 59
+
+Hour #23 Report:
+  Top 5 highest temperatures:
+  1: 69.8173F
+  2: 69.8037F
+  3: 69.6052F
+  4: 69.5595F
+  5: 69.518F
+  Top 5 lowest temperatures:
+  1: -99.9651F
+  2: -99.6516F
+  3: -99.2372F
+  4: -99.0183F
+  5: -97.6246F
+  The largest 10-minute temperature difference was observed between minutes 12 and 22
+
